@@ -1,0 +1,4 @@
+../Core/Src/app_Final_Project.c:36:6:App_Init	2
+../Core/Src/app_Final_Project.c:155:6:playNote	2
+../Core/Src/app_Final_Project.c:171:6:stopNote	1
+../Core/Src/app_Final_Project.c:75:6:App_MainLoop	17

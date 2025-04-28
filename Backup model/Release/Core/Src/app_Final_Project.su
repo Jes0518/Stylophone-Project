@@ -1,0 +1,4 @@
+../Core/Src/app_Final_Project.c:36:6:App_Init	48	static
+../Core/Src/app_Final_Project.c:155:6:playNote	0	static
+../Core/Src/app_Final_Project.c:171:6:stopNote	0	static
+../Core/Src/app_Final_Project.c:75:6:App_MainLoop	24	static
